@@ -197,6 +197,30 @@
       ]
    },
    {
+      "name": "X2 Pro",
+      "brand": "Realme",
+      "codename": "samurai",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_RMX1971",
+         "device_realme_sdm710-common",
+         "kernel_realme_sdm710",
+         "vendor_realme_RMX1971",
+         "vendor_realme_sdm710-common"
+      ]
+   },
+   {
       "name": "Phone (1)",
       "brand": "Nothing",
       "codename": "Spacewar",
